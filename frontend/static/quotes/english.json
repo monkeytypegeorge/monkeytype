@@ -1,10 +1,22 @@
 {
   "language": "english",
   "groups": [
-    [0, 100],
-    [101, 300],
-    [301, 600],
-    [601, 9999]
+    [
+      0,
+      100
+    ],
+    [
+      101,
+      300
+    ],
+    [
+      301,
+      600
+    ],
+    [
+      601,
+      9999
+    ]
   ],
   "quotes": [
     {
@@ -38860,6 +38872,13 @@
       "length": 186,
       "approvedBy": "Smithster",
       "id": 6744
+    },
+    {
+      "text": "The price of getting what you want is getting what you once wanted.",
+      "source": "The Sandman",
+      "length": 67,
+      "approvedBy": "Smithster",
+      "id": 6745
     }
   ]
 }
